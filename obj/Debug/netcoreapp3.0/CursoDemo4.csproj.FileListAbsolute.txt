@@ -1,0 +1,11 @@
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.exe
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.deps.json
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.runtimeconfig.json
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.runtimeconfig.dev.json
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.dll
+D:\ejercicios\CursoDemo4\bin\Debug\netcoreapp3.0\CursoDemo4.pdb
+D:\ejercicios\CursoDemo4\obj\Debug\netcoreapp3.0\CursoDemo4.csprojAssemblyReference.cache
+D:\ejercicios\CursoDemo4\obj\Debug\netcoreapp3.0\CursoDemo4.AssemblyInfoInputs.cache
+D:\ejercicios\CursoDemo4\obj\Debug\netcoreapp3.0\CursoDemo4.AssemblyInfo.cs
+D:\ejercicios\CursoDemo4\obj\Debug\netcoreapp3.0\CursoDemo4.dll
+D:\ejercicios\CursoDemo4\obj\Debug\netcoreapp3.0\CursoDemo4.pdb
